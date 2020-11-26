@@ -10,6 +10,8 @@
 languages:
   - es
   - en
+  
+# This is a comment
 
 # Destination directory
 # ---------------------
