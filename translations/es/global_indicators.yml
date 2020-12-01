@@ -549,8 +549,8 @@
 1-2-1-1-1-title: Proporción de personas en riesgo de pobreza relativa, considerando el umbral autonómico de pobreza
 1-2-1-2-title: Proporción de personas en riesgo de pobreza relativa con alquiler imputado, considerando el umbral nacional de pobreza
 1-2-1-2-1-title: Proporción de personas en riesgo de pobreza relativa con alquiler imputado, considerando el umbral autonómico de pobreza
-1-2-2-1-title: Proporción de personas en riesgo de pobreza o exclusión social: indicador AROPE, considerando el umbral nacional de pobreza
-1-2-2-1-1-title: Proporción de personas en riesgo de pobreza o exclusión social: indicador AROPE, considerando el umbral autonómico de pobreza
+1-2-2-1-title: 'Proporción de personas en riesgo de pobreza o exclusión social: indicador AROPE, considerando el umbral nacional de pobreza'
+1-2-2-1-1-title: 'Proporción de personas en riesgo de pobreza o exclusión social: indicador AROPE, considerando el umbral autonómico de pobreza'
 1-2-2-2-title: Proporción de personas con carencia material severa
 1-2-2-3-title: Proporción de personas viviendo en hogares con baja intensidad de trabajo
 1-5-1-1-title: Número de personas muertas directamente atribuido a desastres por cada 100.000 habitantes
@@ -641,7 +641,4 @@
 16-1-4-1-title: Proporción de personas que se sienten seguras al caminar sola en su zona de residencia
 17-1-1-1-title: Total de ingresos de las Administraciones Públicas Autonómicas y Locales en proporción al PIB
 17-8-1-1-title: Proporción de personas entre 16 y 74 años que han utilizado Internet en los últimos tres meses
-
-  y alta en el valor añadido total
-9-c-1-title: Proporción de la población con cobertura de red móvil, desglosada
-  por tecnología
+9-c-1-title: Proporción de la población con cobertura de red móvil, desglosada por tecnología
