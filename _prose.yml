@@ -144,13 +144,13 @@ prose:
             element: text
             label: "Comments and limitations"
             translation_key: metadata_fields.comments_limitations
-            scope: modified #national
+            scope: modified # national
       - name: "rationale_interpretation"
         field:
             element: text
             label: "Rationale and interpretation"
             translation_key: metadata_fields.rationale_interpretation
-            scope: modified #national
+            scope: modified # national
       - name: "national_data_update_url"
         field:
             element: hidden
@@ -162,19 +162,19 @@ prose:
             element: hidden
             label: "Data last updated"
             translation_key: metadata_fields.national_data_update_url_text
-            scope: modified #national
+            scope: national
       - name: "national_metadata_update_url"
         field:
             element: hidden
             label: "Metadata last updated"
             translation_key: metadata_fields.national_metadata_update_url
-            scope: national
+            scope: modified # national
       - name: "national_metadata_update_url_text"
         field:
             element: hidden
             label: "Metadata last updated"
             translation_key: metadata_fields.national_metadata_update_url_text
-            scope: national
+            scope: modified # national
        ######### Data Info #########
       - name: "reporting_status"
         field:
