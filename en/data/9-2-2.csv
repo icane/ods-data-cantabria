@@ -1,10 +1,20 @@
-Year,Serie,Value
-2010,Proporción de personas ocupadas en el sector manufacturero,
-2011,Proporción de personas ocupadas en el sector manufacturero,
-2012,Proporción de personas ocupadas en el sector manufacturero,
-2013,Proporción de personas ocupadas en el sector manufacturero,
-2014,Proporción de personas ocupadas en el sector manufacturero,
-2015,Proporción de personas ocupadas en el sector manufacturero,
-2016,Proporción de personas ocupadas en el sector manufacturero,
-2017,Proporción de personas ocupadas en el sector manufacturero,
-2018,Proporción de personas ocupadas en el sector manufacturero,
+Year,Serie,Age,Sex,Value
+2010,Proporción de personas ocupadas en el sector manufacturero,Todas las edades o no desagregado por edad,Ambos sexos o no desagregado por sexo,14.2
+2011,Proporción de personas ocupadas en el sector manufacturero,Todas las edades o no desagregado por edad,Ambos sexos o no desagregado por sexo,15.1
+2012,Proporción de personas ocupadas en el sector manufacturero,Todas las edades o no desagregado por edad,Ambos sexos o no desagregado por sexo,14.7
+2013,Proporción de personas ocupadas en el sector manufacturero,Todas las edades o no desagregado por edad,Ambos sexos o no desagregado por sexo,15.1
+2014,Proporción de personas ocupadas en el sector manufacturero,Todas las edades o no desagregado por edad,Ambos sexos o no desagregado por sexo,14.4
+2015,Proporción de personas ocupadas en el sector manufacturero,Todas las edades o no desagregado por edad,Ambos sexos o no desagregado por sexo,13.4
+2016,Proporción de personas ocupadas en el sector manufacturero,Todas las edades o no desagregado por edad,Ambos sexos o no desagregado por sexo,14.3
+2017,Proporción de personas ocupadas en el sector manufacturero,Todas las edades o no desagregado por edad,Ambos sexos o no desagregado por sexo,13.9
+2018,Proporción de personas ocupadas en el sector manufacturero,Todas las edades o no desagregado por edad,Ambos sexos o no desagregado por sexo,14.3
+2019,Proporción de personas ocupadas en el sector manufacturero,Todas las edades o no desagregado por edad,Ambos sexos o no desagregado por sexo,14.3
+2010,Empleo del sector manufacturero en proporción al empleo total (personas empleadas),Todas las edades o no desagregado por edad,Ambos sexos o no desagregado por sexo,14.5
+2011,Empleo del sector manufacturero en proporción al empleo total (personas empleadas),Todas las edades o no desagregado por edad,Ambos sexos o no desagregado por sexo,14.3
+2012,Empleo del sector manufacturero en proporción al empleo total (personas empleadas),Todas las edades o no desagregado por edad,Ambos sexos o no desagregado por sexo,13.7
+2013,Empleo del sector manufacturero en proporción al empleo total (personas empleadas),Todas las edades o no desagregado por edad,Ambos sexos o no desagregado por sexo,13.1
+2014,Empleo del sector manufacturero en proporción al empleo total (personas empleadas),Todas las edades o no desagregado por edad,Ambos sexos o no desagregado por sexo,12.8
+2015,Empleo del sector manufacturero en proporción al empleo total (personas empleadas),Todas las edades o no desagregado por edad,Ambos sexos o no desagregado por sexo,12.5
+2016,Empleo del sector manufacturero en proporción al empleo total (personas empleadas),Todas las edades o no desagregado por edad,Ambos sexos o no desagregado por sexo,13.0
+2017,Empleo del sector manufacturero en proporción al empleo total (personas empleadas),Todas las edades o no desagregado por edad,Ambos sexos o no desagregado por sexo,13.4
+2018,Empleo del sector manufacturero en proporción al empleo total (personas empleadas),Todas las edades o no desagregado por edad,Ambos sexos o no desagregado por sexo,13.4
