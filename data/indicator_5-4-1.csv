@@ -1,4 +1,4 @@
-Year,Serie,Age,Sex,Value
-2010,Tiempo dedicado al hogar y familia en un día promedio,Todas las edades o no desagregado por edad,Ambos sexos o no desagregado por sexo,172.0
-2010,Tiempo dedicado por las mujeres al hogar y familia en un día promedio,Todas las edades o no desagregado por edad,Mujer,241.5
-2010,Tiempo dedicado por los hombres al hogar y familia en un día promedio,Todas las edades o no desagregado por edad,Hombre,98.7
+Year,Serie,Value
+2010,Tiempo dedicado al hogar y familia en un día promedio,172.0
+2010,Tiempo dedicado por las mujeres al hogar y familia en un día promedio,241.5
+2010,Tiempo dedicado por los hombres al hogar y familia en un día promedio,98.7
