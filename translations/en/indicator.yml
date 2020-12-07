@@ -49,7 +49,7 @@ map: Map
 loading: Loading
 loading_map: Loading map
 # A button that displays the national metadata about a particular indicator - as provided by that country
-national_metadata: National Metadata
+national_metadata: Indicator details
 national_metadata_blurb: This table provides metadata for the actual indicator
   available from %country_name statistics closest to the corresponding
   global SDG indicator. Please note that even when the global SDG indicator is
