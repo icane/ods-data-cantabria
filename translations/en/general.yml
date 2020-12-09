@@ -14,8 +14,8 @@ opens_new_window: opens in a new window
 hide: hide
 target: Target
 targets: Targets
-twitter: Twitter
-facebook: Facebook
+twitter: <i class="fa fa-twitter" style="font-size:24px;"></i>
+facebook: <i class="fa fa-facebook-square" style="font-size:24px"></i>
 built_using_open_sdg: Built using Open SDG
 page: Page
 pages: Pages

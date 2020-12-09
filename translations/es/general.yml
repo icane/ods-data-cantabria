@@ -9,8 +9,8 @@ hide: ocultar
 sdg: Objetivos de Desarrollo Sostenible
 target: Meta
 targets: Metas
-twitter: <i class="fa fa-twitter" style="font-size:48px;color:blue"></i>
-facebook: <i class="fa fa-facebook-square" style="font-size:48px;color:blue"></i>
+twitter: <i class="fa fa-twitter" style="font-size:24px;"></i>
+facebook: <i class="fa fa-facebook-square" style="font-size:24px"></i>
 built_using_open_sdg: Construido usando Open SDG
 page: página web
 pages: páginas web
