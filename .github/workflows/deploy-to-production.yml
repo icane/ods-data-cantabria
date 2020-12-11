@@ -46,7 +46,7 @@ jobs:
     - name: Deploy to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@3.6.2
       with:
-        REPOSITORY_NAME: ods-cantabria/ods-cantabria-data
+        REPOSITORY_NAME: ods-cantabria/ods-data-cantabria
         ACCESS_TOKEN: ${{ secrets.token }}
         BRANCH: gh-pages
         FOLDER: _site
