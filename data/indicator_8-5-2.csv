@@ -10,6 +10,7 @@ Year,Serie,RefArea,Value
 2018,Tasa de desempleo,España,15.25
 2019,Tasa de desempleo,España,14.10
 2020,Tasa de desempleo,España,15.53
+2021,Tasa de desempleo,España,14.78
 2010,Tasa de desempleo,Cantabria,12.07
 2011,Tasa de desempleo,Cantabria,13.75
 2012,Tasa de desempleo,Cantabria,16.65
@@ -21,16 +22,19 @@ Year,Serie,RefArea,Value
 2018,Tasa de desempleo,Cantabria,9.77
 2019,Tasa de desempleo,Cantabria,9.49
 2020,Tasa de desempleo,Cantabria,10.86
+2021,Tasa de desempleo,Cantabria,10.89
 2014,Tasa de desempleo de las personas entre 16 y 64 años con discapacidad,España,32.70
 2015,Tasa de desempleo de las personas entre 16 y 64 años con discapacidad,España,31.00
 2016,Tasa de desempleo de las personas entre 16 y 64 años con discapacidad,España,28.60
 2017,Tasa de desempleo de las personas entre 16 y 64 años con discapacidad,España,26.20
 2018,Tasa de desempleo de las personas entre 16 y 64 años con discapacidad,España,25.20
+2020,Tasa de desempleo de las personas entre 16 y 64 años con discapacidad,España,22.20
 2014,Tasa de desempleo de las personas entre 16 y 64 años con discapacidad,Cantabria,38.36
 2015,Tasa de desempleo de las personas entre 16 y 64 años con discapacidad,Cantabria,30.81
 2016,Tasa de desempleo de las personas entre 16 y 64 años con discapacidad,Cantabria,22.75
 2017,Tasa de desempleo de las personas entre 16 y 64 años con discapacidad,Cantabria,19.24
 2018,Tasa de desempleo de las personas entre 16 y 64 años con discapacidad,Cantabria,12.86
+2020,Tasa de desempleo de las personas entre 16 y 64 años con discapacidad,Cantabria,16.08
 2010,Tasa de desempleo de hombres,España,19.57
 2011,Tasa de desempleo de hombres,España,21.04
 2012,Tasa de desempleo de hombres,España,24.58
@@ -42,6 +46,7 @@ Year,Serie,RefArea,Value
 2018,Tasa de desempleo de hombres,España,13.72
 2019,Tasa de desempleo de hombres,España,12.45
 2020,Tasa de desempleo de hombres,España,13.87
+2021,Tasa de desempleo de hombres,España,13.05
 2010,Tasa de desempleo de hombres,Cantabria,11.31
 2011,Tasa de desempleo de hombres,Cantabria,14.47
 2012,Tasa de desempleo de hombres,Cantabria,17.22
@@ -53,6 +58,7 @@ Year,Serie,RefArea,Value
 2018,Tasa de desempleo de hombres,Cantabria,8.47
 2019,Tasa de desempleo de hombres,Cantabria,9.00
 2020,Tasa de desempleo de hombres,Cantabria,10.26
+2021,Tasa de desempleo de hombres,Cantabria,9.27
 2010,Tasa de desempleo de mujeres,España,20.22
 2011,Tasa de desempleo de mujeres,España,21.81
 2012,Tasa de desempleo de mujeres,España,25.03
@@ -64,6 +70,7 @@ Year,Serie,RefArea,Value
 2018,Tasa de desempleo de mujeres,España,17.02
 2019,Tasa de desempleo de mujeres,España,15.99
 2020,Tasa de desempleo de mujeres,España,17.43
+2021,Tasa de desempleo de mujeres,España,16.71
 2010,Tasa de desempleo de mujeres,Cantabria,13.05
 2011,Tasa de desempleo de mujeres,Cantabria,12.86
 2012,Tasa de desempleo de mujeres,Cantabria,15.96
@@ -75,23 +82,28 @@ Year,Serie,RefArea,Value
 2018,Tasa de desempleo de mujeres,Cantabria,11.30
 2019,Tasa de desempleo de mujeres,Cantabria,10.05
 2020,Tasa de desempleo de mujeres,Cantabria,11.54
+2021,Tasa de desempleo de mujeres,Cantabria,12.68
 2014,Tasa de desempleo de las personas entre 16 y 64 años sin discapacidad,España,24.30
 2015,Tasa de desempleo de las personas entre 16 y 64 años sin discapacidad,España,21.90
 2016,Tasa de desempleo de las personas entre 16 y 64 años sin discapacidad,España,19.50
 2017,Tasa de desempleo de las personas entre 16 y 64 años sin discapacidad,España,17.10
 2018,Tasa de desempleo de las personas entre 16 y 64 años sin discapacidad,España,15.10
+2020,Tasa de desempleo de las personas entre 16 y 64 años sin discapacidad,España,15.40
 2014,Tasa de desempleo de las personas entre 16 y 64 años sin discapacidad,Cantabria,18.91
 2015,Tasa de desempleo de las personas entre 16 y 64 años sin discapacidad,Cantabria,17.32
 2016,Tasa de desempleo de las personas entre 16 y 64 años sin discapacidad,Cantabria,14.73
 2017,Tasa de desempleo de las personas entre 16 y 64 años sin discapacidad,Cantabria,13.40
 2018,Tasa de desempleo de las personas entre 16 y 64 años sin discapacidad,Cantabria,10.66
+2020,Tasa de desempleo de las personas entre 16 y 64 años sin discapacidad,Cantabria,12.08
 2014,Tasa de desempleo de las personas entre 16 y 64 años,España,24.60
 2015,Tasa de desempleo de las personas entre 16 y 64 años,España,22.20
 2016,Tasa de desempleo de las personas entre 16 y 64 años,España,19.70
 2017,Tasa de desempleo de las personas entre 16 y 64 años,España,17.30
 2018,Tasa de desempleo de las personas entre 16 y 64 años,España,15.40
+2020,Tasa de desempleo de las personas entre 16 y 64 años,España,15.60
 2014,Tasa de desempleo de las personas entre 16 y 64 años,Cantabria,19.52
 2015,Tasa de desempleo de las personas entre 16 y 64 años,Cantabria,17.71
 2016,Tasa de desempleo de las personas entre 16 y 64 años,Cantabria,14.99
 2017,Tasa de desempleo de las personas entre 16 y 64 años,Cantabria,13.64
 2018,Tasa de desempleo de las personas entre 16 y 64 años,Cantabria,10.75
+2020,Tasa de desempleo de las personas entre 16 y 64 años,Cantabria,12.25
