@@ -1,4 +1,5 @@
 Year,Serie,RefArea,Value
+2010,Tasa de crecimiento anual del PIB real por persona empleada,España,
 2011,Tasa de crecimiento anual del PIB real por persona empleada,España,1.77
 2012,Tasa de crecimiento anual del PIB real por persona empleada,España,1.10
 2013,Tasa de crecimiento anual del PIB real por persona empleada,España,1.06
@@ -11,19 +12,8 @@ Year,Serie,RefArea,Value
 2020,Tasa de crecimiento anual del PIB real por persona empleada,España,-7.29
 2021,Tasa de crecimiento anual del PIB real por persona empleada,España,4.03
 2022,Tasa de crecimiento anual del PIB real por persona empleada,España,3.01
-2010,Tasa de crecimiento anual del PIB real por persona empleada,Cantabria,3.81
-2011,Tasa de crecimiento anual del PIB real por persona empleada,Cantabria,0.21
-2012,Tasa de crecimiento anual del PIB real por persona empleada,Cantabria,1.83
-2013,Tasa de crecimiento anual del PIB real por persona empleada,Cantabria,-1.21
-2014,Tasa de crecimiento anual del PIB real por persona empleada,Cantabria,1.58
-2015,Tasa de crecimiento anual del PIB real por persona empleada,Cantabria,0.97
-2016,Tasa de crecimiento anual del PIB real por persona empleada,Cantabria,1.06
-2017,Tasa de crecimiento anual del PIB real por persona empleada,Cantabria,0.93
-2018,Tasa de crecimiento anual del PIB real por persona empleada,Cantabria,0.07
-2019,Tasa de crecimiento anual del PIB real por persona empleada,Cantabria,-0.83
-2020,Tasa de crecimiento anual del PIB real por persona empleada,ES14,-6.40
-2021,Tasa de crecimiento anual del PIB real por persona empleada,ES14,4.75
-2022,Tasa de crecimiento anual del PIB real por persona empleada,ES14,3.71
+2023,Tasa de crecimiento anual del PIB real por persona empleada,España,-0.66
+2010,Tasa de crecimiento anual del PIB real por hora trabajada,España,
 2011,Tasa de crecimiento anual del PIB real por hora trabajada,España,1.48
 2012,Tasa de crecimiento anual del PIB real por hora trabajada,España,1.93
 2013,Tasa de crecimiento anual del PIB real por hora trabajada,España,1.48
@@ -36,16 +26,4 @@ Year,Serie,RefArea,Value
 2020,Tasa de crecimiento anual del PIB real por hora trabajada,España,-0.18
 2021,Tasa de crecimiento anual del PIB real por hora trabajada,España,-0.76
 2022,Tasa de crecimiento anual del PIB real por hora trabajada,España,1.81
-2010,Tasa de crecimiento anual del PIB real por hora trabajada,Cantabria,5.14
-2011,Tasa de crecimiento anual del PIB real por hora trabajada,Cantabria,-0.18
-2012,Tasa de crecimiento anual del PIB real por hora trabajada,Cantabria,1.81
-2013,Tasa de crecimiento anual del PIB real por hora trabajada,Cantabria,-0.66
-2014,Tasa de crecimiento anual del PIB real por hora trabajada,Cantabria,1.59
-2015,Tasa de crecimiento anual del PIB real por hora trabajada,Cantabria,1.06
-2016,Tasa de crecimiento anual del PIB real por hora trabajada,Cantabria,0.33
-2017,Tasa de crecimiento anual del PIB real por hora trabajada,Cantabria,2.76
-2018,Tasa de crecimiento anual del PIB real por hora trabajada,Cantabria,0.29
-2019,Tasa de crecimiento anual del PIB real por hora trabajada,Cantabria,0.36
-2020,Tasa de crecimiento anual del PIB real por hora trabajada,Cantabria,0.37
-2021,Tasa de crecimiento anual del PIB real por hora trabajada,Cantabria,-1.07
-2022,Tasa de crecimiento anual del PIB real por hora trabajada,Cantabria,1.80
+2023,Tasa de crecimiento anual del PIB real por hora trabajada,España,0.55
